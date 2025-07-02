@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello
+=======
+hi-dev2
+>>>>>>> master
