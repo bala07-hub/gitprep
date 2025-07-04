@@ -2,4 +2,5 @@
 hello
 =======
 hi-dev2
+Changing dummy.txt in dev1
 >>>>>>> master
